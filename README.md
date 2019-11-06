@@ -8,7 +8,7 @@
       <a href="http://www.coursera.org" target="_blank">One</a>
       <a href="https://www.edx.org/" target="_blank">Two</a>
       <a href="https://www.udacity.com/" target="_blank">Three</a>
-      <a href="https://www.kickstarter.com/projects/cori226/the-city-of-tears?ref=project_facebook&fbclid=IwAR3GtVzVs839o9kPtv9O0U3j6z3aIOMIgXJN5j1MNeUGd01VsDnx11psuSI" target="_blank">Stand with HKK</a>
+      <a href="https://www.kickstarter.com/projects/cori226/the-city-of-tears?ref=project_facebook&fbclid=IwAR3GtVzVs839o9kPtv9O0U3j6z3aIOMIgXJN5j1MNeUGd01VsDnx11psuSI" target="_blank">StandwithHK</a>
     </nav>
   </header>
 
