@@ -2,25 +2,23 @@
 <html lang="en">
   
 <body>
-  <!-- 5. Best/proper way to declare the header for a page -->
   <header>
-    <h1>NITIN GUNWANT BOBADE</h1>
+    <h1> Augustine Wong</h1>
     <nav>
       <a href="http://www.coursera.org" target="_blank">One</a>
       <a href="https://www.edx.org/" target="_blank">Two</a>
       <a href="https://www.udacity.com/" target="_blank">Three</a>
-      <a href="https://codepen.io/ni3bobade/" target="_blank">ni3bobade</a>
+      <a href="https://www.facebook.com/Augustine.w/" target="_blank">My Facebook</a>
     </nav>
   </header>
 
-  <!-- 6. Best/proper way to declare a section that has an h2 heading and an unordered list -->
   <section>
     <h2>Favorite Foods</h2>
     <ul>
-      <li>Chicken Biryani</li>
-      <li>Dal Tadka</li>
-      <li>Vada Pav</li>
-      <li>Gulab Jamun</li>
+      <li>Dim Sum</li>
+      <li>Pizza</li>
+      <li>KFC</li>
+      <li>Ramen</li>
     </ul>
   </section>
 
