@@ -27,7 +27,7 @@
     <p>Progress in this course (100%)
       <progress value="1"></progress><br> Progress in the Specialization capstone (20%)
       <progress value="20" max="100"></progress><br> Progress in life goals (50%)
-      <progress value="3" max="100"></progress>
+      <progress value="30" max="100"></progress>
     </p>
   </section>
 
