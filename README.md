@@ -1,16 +1,6 @@
-<!-- 2. Best/proper way to declare that your page uses HTML5 protocol -->
 <!DOCTYPE html>
-
-<!-- 3. Best/proper way to declare that the language for your page is English -->
 <html lang="en">
-
-<head>
-  <!-- 4. Best/proper way to create meta-data for your page -->
-  <meta charset="UTF-8">
-  <meta name="author" content="Nitin Bobade">
-  <title>Nitin Gunwant Bobade</title>
-</head>
-
+  
 <body>
   <!-- 5. Best/proper way to declare the header for a page -->
   <header>
